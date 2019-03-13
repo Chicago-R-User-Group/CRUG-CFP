@@ -4,11 +4,15 @@ output: html_document
 ---
 
 
-Hello fellow CRUG useRs:
 
-As our community grows to a now 3,600+ membership (one of the largest in the world) and as R itself grows into a full solutions, open source ecosystem, we, organizers, would like to tap into the many varied industries, disciplines, practices, and projects you all are immersed in using R in the Chicagoloand area. This can involve but not limited to data sourcing, data visualization, data analytics, data science, desktop and web applications, and much, much more across the spectrum of experience from novice to expert levels.
+Dear Chicago R UseRs,
 
-Therefore, we kindly ask if you would like to participate as a speaker in any future CRUG meetup to please fill out below contact and description details. From there, as logistics align, we can work with you to schedule a future, awesome meetup event that strengthens, inspires, and engages the language and environment we all come to learn and love.
+As the Chicago R User Group community continues to expand (one of the largest RUGs, reaching nearly 3,600 members), and as R itself continues to grow, we would like to invite submit your R work to CRUG for consideration as a speaker in an upcoming meetup! As organizers of CRUG, we'd like to expand our usual scope and tap into the myriad of industries, disciplines, practices, and projects utilizing R in the Chicagoland area. This can encompass data sourcing, munging, visualization, analytics, statistics, data science, desktop, server, web applications, and much more, spanning the spectrum of experiences from novice to expert levels alike.
+
+As frequent attendees have noticed, we've been embracing the lightning talk theme and have found multiple talks from multiple speakers to be an excellent format for us. It communicates a lot of information, and gives more people an opportunity to contribute, which is where you come in!
+
+We kindly and respectfully invite you to submit your work to speak at a future meetup. For consideration, lease fill out below contact and description details. From there, as logistics align, we can work with you to schedule a future, awesome meetup event that strengthens, inspires, and engages the language and environment we all come to learn and love.
 
 Best regards,
-CRUG organizers
+
+The Chicago R User Group organizers
