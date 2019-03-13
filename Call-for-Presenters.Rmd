@@ -1,0 +1,14 @@
+---
+title: "CRUG Future Meetup Speakers"
+output: html_document
+---
+
+
+Hello fellow CRUG useRs:
+
+As our community grows to a now 3,600+ membership (one of the largest in the world) and as R itself grows into a full solutions, open source ecosystem, we, organizers, would like to tap into the many varied industries, disciplines, practices, and projects you all are immersed in using R in the Chicagoloand area. This can involve but not limited to data sourcing, data visualization, data analytics, data science, desktop and web applications, and much, much more across the spectrum of experience from novice to expert levels.
+
+Therefore, we kindly ask if you would like to participate as a speaker in any future CRUG meetup to please fill out below contact and description details. From there, as logistics align, we can work with you to schedule a future, awesome meetup event that strengthens, inspires, and engages the language and environment we all come to learn and love.
+
+Best regards,
+CRUG organizers
