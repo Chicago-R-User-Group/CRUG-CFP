@@ -7,11 +7,11 @@ output: html_document
 
 Dear Chicago R UseRs,
 
-As the Chicago R User Group community continues to expand (one of the largest RUGs, reaching nearly 3,600 members), and as R itself continues to grow, we would like to invite submit your R work to CRUG for consideration as a speaker in an upcoming meetup! As organizers of CRUG, we'd like to expand our usual scope and tap into the myriad of industries, disciplines, practices, and projects utilizing R in the Chicagoland area. This can encompass data sourcing, munging, visualization, analytics, statistics, data science, desktop, server, web applications, and much more, spanning the spectrum of experiences from novice to expert levels alike.
+As the Chicago R User Group community continues to expand (one of the largest RUGs, reaching nearly 3,600 members), and as `R` in general continues to grow, we would like to invite you to register your interest as a speaker for an upcoming meetup! As organizers of CRUG, we'd like to expand our usual scope and tap into the myriad of industries, disciplines, practices, and projects utilizing R in the Chicagoland area. This can encompass data sourcing, munging, visualization, statistics, machine learning, data science, desktop, server, web applications, high performance computer, and much more. The general spectrum of experiences levels is welcome, from novice to expert alike. 
 
-As frequent attendees have noticed, we've been embracing the lightning talk theme and have found multiple talks from multiple speakers to be an excellent format for us. It communicates a lot of information, and gives more people an opportunity to contribute, which is where you come in!
+As frequent attendees have noticed, we've been embracing the lightning talk theme. We've found talks from many speakers communicates a lot of information, while giving more people an opportunity to contribute.
 
-We kindly and respectfully invite you to submit your work to speak at a future meetup. For consideration, lease fill out below contact and description details. From there, as logistics align, we can work with you to schedule a future, awesome meetup event that strengthens, inspires, and engages the language and environment we all come to learn and love.
+We invite you to register your interest in speaking at a future meetup! As logistics align, we can work with you to schedule a future meetup event that strengthens, inspires, and engages the language and environment we've all come to learn and love.
 
 Best regards,
 
