@@ -7,11 +7,12 @@ output: html_document
 
 Dear Chicago R UseRs,
 
-As the Chicago R User Group community continues to expand (one of the largest RUGs, reaching nearly 3,600 members), and as `R` in general continues to grow, we would like to invite you to register your interest as a speaker for an upcoming meetup! As organizers of CRUG, we'd like to expand our usual scope and tap into the myriad of industries, disciplines, practices, and projects utilizing R in the Chicagoland area. This can encompass data sourcing, munging, visualization, statistics, machine learning, data science, desktop, server, web applications, high performance computer, and much more. The general spectrum of experiences levels is welcome, from novice to expert alike. 
+As frequent attendees have noticed, we've been embracing the lightning talk theme at recent events. We've found talks from many speakers communicates volumes of information, while also giving more people an opportunity to contribute in the spirit of open source.
 
-As frequent attendees have noticed, we've been embracing the lightning talk theme. We've found talks from many speakers communicates a lot of information, while giving more people an opportunity to contribute.
+In this vein, as the Chicago R User Group community continues to expand (one of the largest RUGs, reaching nearly 3,600 members), we would like to invite you to register your interest as a speaker for an upcoming meetup! As organizers of CRUG, we'd like to tap into the general myriad of industries, academia, disciplines, practices, and projects utilizing R in the Chicagoland area. This can encompass data sourcing, munging, visualization, statistics, machine learning, data science, desktop, server, web applications, high performance computing, and much more. A spectrum of experiences levels is welcome, from novice to expert alike. 
 
-We invite you to register your interest in speaking at a future meetup by filling out our Google form: https://goo.gl/forms/GDEMPC8OVn9nR6xf1. As logistics align, we can work with you to schedule a future meetup event that strengthens, inspires, and engages the language and environment we've all come to learn and love.
+
+We invite you to register your interest in speaking at a future meetup by filling out our Google form: https://goo.gl/forms/GDEMPC8OVn9nR6xf1. As logistics align, we can work with you to schedule a future meetup event that strengthens, inspires, and contributes to the language and environment we've all come to learn and love.
 
 Best regards,
 
